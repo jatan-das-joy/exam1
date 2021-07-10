@@ -1,0 +1,919 @@
+@media all and ( max-width: 1920px ) {
+    .footer-btn {
+        padding: 20px 20px;
+    }
+    .footer-section {
+        height: 100vh;
+    }
+    .footer-top.c-fix {
+        padding-bottom: 12px;
+    }
+    .news-section {
+        height: 100vh;
+    }
+
+}
+/*    1720    */
+@media all and ( max-width: 1720px ) {
+
+
+}
+
+/*      1550     */
+@media all and ( max-width: 1550px ) {
+
+
+}
+
+/*     1400   */
+@media all and ( max-width: 1400px ) {
+    .about-section-left h2 {
+        padding-top: 15px;
+    }
+    .about-img.c-fix {
+        padding-top: 54px;
+    }
+    .about-section-left.f-left {
+        width: 59%;
+    
+    }
+    .about-section-left.f-left {
+        height: 437px;
+    }
+    .about-img.c-fix {
+        padding-top: 15px;
+    }
+
+}
+/*     1310 */
+@media all and ( max-width: 1310px ) {
+    .about-section-notice.c-fix {
+        padding: 14px 11px;
+    }
+}
+
+
+/*      1300  */
+@media all and ( max-width: 1300px ) {
+
+body{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.about-section-left.f-left {
+	margin-right: 30px;
+	padding: 71px 20px;
+	height: 645px;
+}
+.heder-sicky-menu ul li a {
+	padding: 0 16px;
+}
+
+/*  */
+.about-section-nr.f-left {
+    width: 80%;
+    box-sizing: border-box;
+    padding-left: 10px !important;
+}
+.about-section-nl.f-left {
+    width: 18%;
+    border-right: 2px solid #21A7D0;
+    line-height: 30px;
+}
+
+.about-section-left.f-left {
+    margin-right: 22px;
+}
+.about-section-left.f-left {
+    width: 56%;
+}
+.about-section-right.f-left {
+    width: 37%;
+}
+.frm-inn {
+    padding: 50px;
+}
+.frmiy h2 {
+    font-size: 1.7rem;
+}
+.about-section-left.f-left {
+    height: 513px;
+}
+.about-img.c-fix {
+    padding-top: 15px;
+}
+
+}
+/*          1200 */
+@media all and ( max-width: 1200px ) {
+
+    body{
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .header-btn.f-right {
+     
+        width: 14%;
+    }
+    .header-right {
+        width: 26%;
+    }
+    .heder-sicky-menu ul li a {
+        padding: 0 5px;
+    }
+    .about-section-left.f-left {
+        margin-right: 20px;
+        padding: 71px 17px;
+    }
+    .catagori-right {
+        width: 29%;
+    }
+    .catagori-left {
+        padding-left: 20px;
+    }
+    .admision-right {
+        padding: 10px 80px;
+    }
+    .admision-right h2 {
+        margin-bottom: 0px;
+    }
+    .admision-right p {
+        font-size: 1.0rem; 
+         line-height: 21px;
+    }
+    .askingl {
+        padding: 20px 37px;
+    }
+    .askingl h2 {
+        padding: 10px;
+    }
+    .techer2 {
+        padding: 70px 3px;
+    }
+    .vtestimonial22 p {
+        font-size: 1.0rem;
+        line-height: 24px;
+        padding: 0px 30px;
+    }
+    .nes-item h2 {
+        font-size: 1.6rem;
+        margin-bottom: 9px;
+        margin-top: 0px;
+    }
+    .nes-item {
+        padding: 33px 23px;
+    }
+    .ness1234 {
+        line-height: 28px;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    .email11 {
+        padding: 20px 40px;
+    }
+
+
+    .frm-inn {
+        padding: 50px;
+    }
+    .frmiy h2 {
+        font-size: 1.7rem;
+    }
+    .about-section-left.f-left {
+        height: 513px;
+    }
+    .about-img.c-fix {
+        padding-top: 15px;
+    }
+
+
+
+
+
+}
+/*      1100 */
+@media all and ( max-width: 1100px ) {
+    .frm-inn {
+        padding: 66px;
+    }
+    .frm-inn {
+        padding: 50px;
+    }
+    .frmiy h2 {
+        font-size: 1.5rem;
+    }
+    .itemxx.f-left {
+        width: 55%;
+        margin-left: 8px;
+        margin-top: 3px;
+        text-align: center;
+    }
+}
+
+/*      1020  */
+@media all and ( max-width: 1020px ) {
+
+    .header-left {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .header-right {
+        width: 50%;
+        text-align: left;
+        padding-left: 25px;
+    }
+    .header-btn.f-right {
+        width: 50%;
+        text-align: right;
+        padding-right: 25px;
+    }
+    .heder-sicky-img {
+        width: 18%;
+    }
+    .catagori-item1.f-left {
+        width: 38%;
+    }
+
+    .admision-right {
+        padding: 10px 75px;
+    }
+    .nes-item h2 {
+        font-size: 1.4rem;
+    }
+    .nes-item {
+        padding: 33px 0px !important;
+        padding-left: 15px !important;
+    }
+    .ness12345 h2 {
+        font-size: 1.4rem;
+    }
+    .ness1234 {
+        width: 19%;
+    }
+
+
+
+
+
+
+
+
+
+}
+/*               958     */
+@media all and ( max-width: 958px ) {
+
+    .heder-sicky-menu ul li a {
+        padding: 0 3px;
+    }
+    .heder-sicky-menu {
+        width: 61%;
+    }
+    .about-section-left.f-left {
+        padding: 17px 17px;
+    }
+    .about-section-left h2 {
+        padding-top: 0px;
+        font-size: 1.5rem;
+    }
+    .catagori-right {
+        width: 45%;
+        text-align: right;
+    }
+    .catagori-item1.f-left {
+        width: 30%;
+        padding-left: 10px;
+    }
+    .corse-item-2 {
+        width: 48%;
+    }
+    .corse-ttem.f-left {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .admision-right {
+        padding: 10px 36px;
+    }
+    details p {
+        color: #444;
+        font-size: 14px;
+    }
+    .askingl ul li {
+        height: 34px;
+        padding: 10px 16px;
+        line-height: 22px;
+    }
+    .nes-item h2 {
+        font-size: 1.3rem;
+    }
+    .nes-item {
+        padding: 33px 0px !important;
+        padding-left: 15px !important;
+    }
+    .nes-item p {
+        font-size: 13px;
+    }
+    .ness12345 h2 {
+        font-size: 1.2rem;
+    }
+    .ness1234 {
+        width: 19%;
+        padding: 7px;
+    }
+ 
+    .slider-section {
+        background: url(./img/ia_400000067.jpg) no-repeat center center;
+        background-size: cover;
+    }
+  
+}
+/*      850   */
+@media all and ( max-width: 850px ) {
+    .heder-sicky-img {
+        width: 100%;
+        text-align: center;
+    }
+    .heder-sicky-menu {
+        width: 70%;
+        background: #fff;
+        padding-top: 0 !important;
+        margin-top: 0 !important;
+    }
+    .heder-sicky-serch {
+        width: 30%;
+        box-sizing: border-box;
+        background: #fff;
+    }
+    .heder-sicky-menu ul li a {
+        padding: 0 4px;
+    }
+    .about-section-left h2 {
+        padding-top: 0px;
+        font-size: 1.1rem;
+        margin-top: 2px;
+        margin-bottom: 2px;
+    }
+    .about-img.c-fix {
+        padding-top: 36px;
+    }
+    .about-img2 {
+        width: 55%;
+    }
+    .about-img1 {
+        width: 40%;
+    }
+    .about-img2.f-left {
+        width: 205px;
+    }
+    .heder-sicky-serch ul {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    .slider h2 {
+        padding-top: 166px;
+    }
+    .jklmm {
+        margin-right: 0% !important;
+        padding-left: 2%;
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .catagori-item.c-fix {
+        width: 47%;
+        margin-right: 1%;
+        margin-left: 1%;
+    }
+    .testimonial1 {
+        height: 335px;
+    }
+    .vtestimonial33 {
+        bottom: -44px;
+        left: 40%;
+    }
+    .vtestimonial33 img {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .ness12345 h2 {
+        font-size: 1.1rem;
+    }
+    .t-right {
+        text-align: center;
+    }
+    .footer-bttn ul li {
+        margin-left: 6px;
+    }
+    .footrrr {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .footer1 {
+        width: 30%;
+        box-sizing: border-box;
+        padding-left: 20px;
+    }
+    .heder-sicky-section {
+        background: #fff;
+        height: 100px;
+        position: static;
+        top: 0;
+        width: 100%;
+        z-index: 0;
+    }
+
+
+
+}
+/*      770    */
+@media all and ( max-width: 770px ) {
+
+    .heder-sicky-menu ul li a {
+        font-size: 12px !important;
+    }
+    .heder-sicky-menu ul li a i {
+        font-size: 8px;
+    }
+    .heder-sicky-menu {
+        width: 77%;
+    }
+    .heder-sicky-serch {
+        width: 23%;
+    }
+    .heder-sicky-menu ul {
+        text-align: left;
+        padding-left: 20px;
+    }
+    .megamenu {
+        width: 504px;
+        padding-left: 10px;
+    }
+    .megamenu {
+        left: -20px;
+    }
+    .about-section-left.f-left {
+        margin: -6px;
+    }
+    .about-section-left.f-left {
+        width: 100%;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        height: 438px;
+    }
+
+
+    .about-section-left h2 {
+        font-size: 1.4rem;
+    }
+    .about-section-right.f-left {
+        width: 100%;
+    }
+    .btn2 {
+        width: 142px;
+        font-size: 13px;
+    }
+    .catagori-left h2 {
+        font-size: 1.6rem;
+    }
+    .corse-item-2 h2 {
+        font-size: 1.4rem;
+    }
+    .crs6 p {
+        font-size: 15px;
+    }
+    .crs6 {
+        width: 100%;
+    }
+    .corse-item-2 {
+        padding: 21px;
+    }
+    .crs7 {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .admision-left {
+        width: 100%;
+    }
+    .admision-right {
+        width: 100%;
+        height: 300px;
+    }
+    .askingl {
+        width: 100%;
+        height: 390px;
+    }
+    .askingr {
+        width: 100%;
+    }
+    .asking {
+        padding: 0px 0;
+    }
+    details p {
+        font-size: 16px;
+    }
+    .teacher1 {
+        width: 100%;
+    }
+    .techer2 {
+        padding: 150px 3px;
+    }
+    .testimonial1 {
+        width: 100%;
+        height: 330px;
+        padding: 72px 23px;
+    }
+    .vtestimonial33 {
+        bottom: -19px;
+    }
+    .news-left {
+        width: 100%;
+    }
+    .news-right {
+        width: 100%;
+        margin-bottom: 12px !important;
+    }
+    .hide33 {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .mmu {
+        position: relative;
+        top: 0px;
+    }
+    .frm-inn {
+        padding: 10px;
+    }
+    .frm-section {
+        bottom: -71px;
+    }
+    .frmiy h2 {
+        font-size: 1.3rem;
+    }
+    .email11 {
+        padding: 20px 0px;
+    }
+    .footer1 {
+        width: 50%;
+    }
+    .footerllm {
+        width: 100%;
+    }
+    .techer2 h3 {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .footer-top.c-fix {
+        padding-top: 110px;
+    }
+    .footer-bttn {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-bttn p {
+        font-size: 1.0rem;
+        color: #000;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+/*      580     */
+@media all and ( max-width: 580px ) {
+    .mega1 p a {
+        padding: 12px 15px;
+        font-size: 1.0rem;
+    }
+    .megamenu {
+        width: 415px;
+        padding-left: 6px;
+    }
+    .heder-sicky-serch ul {
+        text-align: left;
+        padding-left: 0px;
+    }
+    .heder-sicky-serch ul li i {
+        padding: 0 6px;
+    }
+    .slider h2 {
+        font-size: 1.5rem;
+        padding-left: 16px;
+    }
+    .slider p {
+        font-size: 13px;
+        padding-left: 15px;
+    }
+    .btn-all {
+        margin-top: 25px;
+        width: 174px;
+        margin-left: 67px;
+    }
+    .megamenu {
+        transition: none;
+    }
+    .megamenu-top {
+        transition: none;
+    }
+   
+    .catagori-left {
+        width: 100%;
+        text-align: center;
+        padding-left: 0;
+    }
+    .catagori-right {
+        width: 100%;
+        text-align: center;
+    }
+    .catagori-item.c-fix {
+        width: 100%;
+    }
+    .corse-item-2 {
+        width: 100%;
+    }
+    .crs7 {
+        width: 30%;
+        text-align: right;
+        margin-top: 0px;
+    }
+    .crs6 {
+        width: 70%;
+    }
+    .corse-item-2 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .admision {
+        margin-bottom: 50px;
+    }
+    .askingl {
+        height: 418px;
+        margin-bottom: 20px;
+    }
+    .catagori-right {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .techer2 {
+        padding: 90px 3px;
+    }
+    .testimonial1 {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+    .vtestimonial33 {
+        visibility: hidden;
+        display: none;
+    }
+    .testimonial1 {
+        height: 346px;
+    }
+    .frmiy {
+        width: 100%;
+    }
+    .frmiy456 {
+        width: 100%;
+    }
+    .frmiy456 {
+        width: 100%;
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .footer1 {
+        width: 100%;
+        text-align: left;
+        padding-left: 20px;
+        margin-bottom: 20px;
+    }
+    .footer1 h2 {
+        padding-bottom: 15px;
+        text-align: center;
+        border-bottom: 2px solid #ddd;
+    }
+    .footer1 ul {
+        padding-top: 20px;
+    }
+    .footer-section {
+        height: 170vh !important;
+    }
+
+    .footer-bttn p {
+        font-size: 1.0rem;
+        color: #fff;
+    }
+
+    .slider {
+        width: 375px;
+        margin: auto;
+    }
+    .about-img.c-fix {
+        padding-top: 16px;
+    }
+ 
+
+
+}
+@media all and ( max-width:565px ) {
+    .hide {
+        visibility: hidden;
+        opacity: 0;
+        display: none !important;
+    } 
+}
+@media all and ( max-width:500px ) {
+ 
+    .heder-sicky-menu {
+        width: 67%;
+    }
+    .heder-sicky-serch {
+        width: 33%;
+    }
+    .product {
+        transition: .1s;
+    }
+    .heder-sicky-menu ul li a {
+        transition: .1s;
+    }
+    .slider h2 {
+        padding-top: 0;
+        padding-left: 0;
+    }
+    .slider {
+        padding: 0 13px;
+        text-align: center;
+    }
+    .slider p {
+        font-size: 13px;
+        padding-left: 0;
+    }
+    body{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .about-section-left.f-left {
+        width: 100%;
+        padding-left: 19px !important;
+        height: auto;
+    }
+    .nes-item {
+        padding: 21px 0px !important;
+        padding-left: 9px !important;
+    }
+    .btn-all.t-left {
+        margin: auto;
+        position: relative;
+        top: 6px;
+    }
+    .about-section-left p {
+        padding-right: 0px;
+        margin-top: 10px;
+    }
+    .testimonial1 {
+        width: 100%;
+        height: 330px;
+        padding: 30px 23px;
+    }
+    .slider {
+        width: 326px;
+    }
+
+
+
+
+
+
+
+
+}
+   /*      420 */
+@media all and ( max-width: 420px ) {
+    .heder-sicky-menu {
+        visibility: hidden;
+        display: none;
+        opacity: 0;
+    }
+    .product {
+        left: -78px !important;
+        z-index: 5;
+    }
+    .product {
+        height: 385px;
+        width: 219px;
+        transition: .1s;
+    }
+    .product {
+        position: absolute;
+        left: 34px;
+        top: 80%;
+        /* visibility: hidden; */
+    }
+    .product h3 {
+        padding-left: 1px;
+        margin-bottom: 18px;
+    }
+    .cart1 a {
+        margin: 0 5px;
+        transition: .1s;
+    }
+
+    .heder-sicky-serch ul {
+        text-align: center !important;
+    }
+    .heder-sicky-serch {
+        width: 100%;
+    }
+    .heder-sicky-serch ul {
+        text-align: right;
+        padding-right: 20px;
+    }
+    .product {
+        right: -50px;
+    }
+    .slider h2 {
+        font-size: 1.3rem;
+    }
+    .btn-all {
+        margin-top: 25px;
+        width: 174px;
+        margin-left: 47px;
+    }
+    .slider p {
+        display: none;
+    }
+    .askingl h2 {
+        font-size: 1.4rem;
+    }
+    .testimonial1 {
+        height: 447px;
+    }
+    .frmiy h2 {
+        display: none;
+        opacity: 0;
+    }
+    .frm-section {
+        bottom: -6px !important;
+    }
+    .footer-bttn p {
+        font-size: 1.0rem;
+        color: #fff;
+    }
+
+    .about-section-left h2 {
+        font-size: 16px;
+    }
+    .t-left  {
+        width: 174px;
+        margin: 20px auto !important;
+    }
+
+    .btn-all.t-left {
+        margin: 23px auto !important;
+    }
+    .about-img1 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .about-img2 img {
+        max-width: 100%;
+        text-align: center;
+        margin: auto;
+    }
+    .about-img2.f-left {
+        margin-left: 0px;
+    }
+    .about-img2.f-left {
+        width: 100%;
+        text-align: center;
+    }
+    .about-section-left.f-left {
+        text-align: center;
+    }
+    .admision-right {
+        height: auto;
+    }
+    .slider {
+        width: 326px;
+        position: relative;
+        top: 51px;
+    }
+
+
+}
+
+
+/* 370 end */
